@@ -20,5 +20,6 @@ public class PruebGitHub {
         //kjkljflkgjdfgdgfd
         ///fjkfsjfwiofjfkjls
     }
+    public void autor(){}
     
 }
