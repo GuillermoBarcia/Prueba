@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Clase;
+package pruebgithub;
 
 /**
  *
  * @author Admin
  */
 public class Clientes {
-    ///hjhhjhj
+    
 }
